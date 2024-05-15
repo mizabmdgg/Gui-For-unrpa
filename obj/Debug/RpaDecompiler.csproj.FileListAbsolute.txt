@@ -1,0 +1,10 @@
+D:\all_sprite\zadrot_main\cpp\hhh\RpaDecompiler\bin\Debug\RpaDecompiler.exe.config
+D:\all_sprite\zadrot_main\cpp\hhh\RpaDecompiler\bin\Debug\RpaDecompiler.exe
+D:\all_sprite\zadrot_main\cpp\hhh\RpaDecompiler\bin\Debug\RpaDecompiler.pdb
+D:\all_sprite\zadrot_main\cpp\hhh\RpaDecompiler\obj\Debug\RpaDecompiler.csproj.AssemblyReference.cache
+D:\all_sprite\zadrot_main\cpp\hhh\RpaDecompiler\obj\Debug\RpaDecompiler.main.resources
+D:\all_sprite\zadrot_main\cpp\hhh\RpaDecompiler\obj\Debug\RpaDecompiler.Properties.Resources.resources
+D:\all_sprite\zadrot_main\cpp\hhh\RpaDecompiler\obj\Debug\RpaDecompiler.csproj.GenerateResource.cache
+D:\all_sprite\zadrot_main\cpp\hhh\RpaDecompiler\obj\Debug\RpaDecompiler.csproj.CoreCompileInputs.cache
+D:\all_sprite\zadrot_main\cpp\hhh\RpaDecompiler\obj\Debug\RpaDecompiler.exe
+D:\all_sprite\zadrot_main\cpp\hhh\RpaDecompiler\obj\Debug\RpaDecompiler.pdb
